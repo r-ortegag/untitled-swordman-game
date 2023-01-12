@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Attack
+  - EnemyPhase2
+  - EnemyPhase3
+  - EnemyPhase1
+  - ChangeLvl2
+  - ChangeLvl3
+  - Boss
+  - Life
+  - Coin
+  - AttackEnemyPhase1
+  - AttackEnemyPhase2
+  - AttackEnemyPhase3
+  - AttackBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1761609053
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
